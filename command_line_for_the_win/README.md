@@ -1,1 +1,3 @@
-polishing cmd skills
+# Command line for the win
+## Bash
+## Scripting
